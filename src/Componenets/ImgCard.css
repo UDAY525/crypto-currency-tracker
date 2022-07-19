@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+
+img{
+    width: 30%;
+}
+
+.name {
+    color: orange;
+    font-weight: 900;
+}
